@@ -1,0 +1,10 @@
+3
+U
+moto,carro,aviao
+barco
+I
+casa,predio,arvore
+casa,madeira,cimento
+D
+0001,0000,0010,0011
+0001,0000,0110,1000
